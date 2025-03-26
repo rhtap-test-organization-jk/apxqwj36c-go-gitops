@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: apxqwj36c-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/apxqwj36c-go
